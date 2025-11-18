@@ -1,5 +1,7 @@
 
 // reusable_camera_picker.dart
+// TEMPORARILY COMMENTED OUT DUE TO CAMERA PLUGIN BUILD ISSUES
+/*
 import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
 
@@ -49,3 +51,4 @@ class _ReusableCameraPickerState extends State<ReusableCameraPicker> {
     );
   }
 }
+*/
