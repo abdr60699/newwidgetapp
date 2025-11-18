@@ -45,6 +45,9 @@ dependencies:
   video_player: ^2.8.6
   camera: ^0.11.0
   image_picker: ^1.1.0
+  fl_chart: ^0.71.0
+  flutter_image_compress: ^2.4.0
+  # connectivity_plus:
 
 dev_dependencies:
   flutter_test:
